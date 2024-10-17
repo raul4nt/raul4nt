@@ -1,4 +1,4 @@
-## Hi there, I'm Raul 👋
+## Hi, I am Raul Silveira 👋
 
 I'm a passionate developer with a deep interest in back-end technologies and a growing understanding of front-end as well. I enjoy tackling challenging problems and am always eager to learn new tools and techniques that help build efficient and scalable solutions.
 
