@@ -1,12 +1,24 @@
-## Hi, I am Raul Silveira 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raulsilveira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raulsilveirati) 
 
-I'm a passionate developer with a deep interest in back-end technologies and a growing understanding of front-end as well. I enjoy tackling challenging problems and am always eager to learn new tools and techniques that help build efficient and scalable solutions.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-00C8A2?style=for-the-badge&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raul4nt&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **back-end projects** involving Node.js, Fastify, Knex, SQLite, and other cutting-edge tools. I’m also experimenting with **web scraping** and **API development**.
-- 🌍 I’m looking to collaborate on **open-source projects** that focus on **back-end** or **full-stack development**.
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/raulsilveirati), or reach out through my GitHub.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raul4nt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Feel free to check out my projects and drop a message if you’d like to connect!
-# 📊 GitHub Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=raul4nt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raul4nt&theme=dark&hide_border=false)<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=raul4nt&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
