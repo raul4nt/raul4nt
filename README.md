@@ -9,9 +9,8 @@
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raulsilveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulsilveirati)](https://www.linkedin.com/in/raulsilveirati)
-## Languages and Tools:
+## Languages and Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&card_width=450)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&layout=compact&card_width=450)
 
 > Backend
 
