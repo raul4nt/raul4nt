@@ -1,15 +1,17 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raul4nt&color=yellow" alt="Profile views this year" /> </p>
+
 ## Hello, World! I'm Raul Silveira.
 
-Systems Developer at Sul Engenharia e Sistemas :computer:
+:computer: Systems Developer at Sul Engenharia e Sistemas
 
-Pursuing BTech in Computer Software Engineering.
+🎓 Pursuing BTech in Computer Software Engineering.
 
-## Socials
+## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raulsilveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulsilveirati)](https://www.linkedin.com/in/raulsilveirati)
 ## Languages and Tools:
-![](https://github-readme-stats.vercel.app/api?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&card_width=450)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raul4nt&theme=transparent&hide_border=false&include_all_commits=false&layout=compact&card_width=450)
 
 > Backend
 
@@ -62,4 +64,4 @@ Pursuing BTech in Computer Software Engineering.
 <code><img heigth="20" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></code>
 <code><img heigth="20" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></code>
 
-Thanks for visiting.
+## Thanks for visiting!
