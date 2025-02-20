@@ -4,7 +4,7 @@
 
 :computer: Systems Developer at Sul Engenharia e Sistemas
 
-🎓 Pursuing BTech in Computer Information Systems.
+🎓 Pursuing degree in Computer Systems Analysis
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raulsilveira)
