@@ -24,7 +24,6 @@
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
   ![Fastify](https://img.shields.io/badge/Fastify-00C8A2?style=for-the-badge&logo=fastify&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 > Frontend
 
