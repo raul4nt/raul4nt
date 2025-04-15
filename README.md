@@ -18,11 +18,11 @@ Coffee lover.
 
 <div style="display: inline_block">
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img align="center" alt="Fastify" src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white" />
     <img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white" />
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
