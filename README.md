@@ -8,8 +8,6 @@ Enthusiast of the best web development technologies.
 <br/>
 Coffee lover.
 
-<br/>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulsilveirati/)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=9580ff)](https://discord.com/users/raulsilveira)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=9580ff)](mailto:raulasacademico@gmail.com)
@@ -18,7 +16,7 @@ Coffee lover.
 
 <h2>💻 &nbsp;Tech Stack</h2>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" />
     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white" />
