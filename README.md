@@ -1,17 +1,18 @@
 <h1>Raul Silveira</h1>
 
-Full-stack software developer in Brazil, building software for the power sector.
+Full-stack software developer at Sul Engenharia e Sistemas (Porto Alegre, Brazil),
+building software for the power sector.
 
 I work end to end: database and query plans, APIs, front-end, tests, deploy and
 production support. Most of my days go into **Notus**, a supervision and outage
 management platform used by power distribution companies to follow their grid
-in real time.
+in real time. I also work on a multi-company construction management system.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulsilveirati/)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=9580ff)](https://discord.com/users/raulsilveira)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=9580ff)](mailto:raulasacademico@gmail.com)
 
-<h2>⚡ &nbsp;What I've been building</h2>
+<h2>What I've been building</h2>
 
 **Notus: from legacy desktop to a multi-client web platform**
 
@@ -27,7 +28,7 @@ in real time.
 
 **Performance on real utility data**
 
-- Tables with tens of millions of SCADA events. Took a key Oracle query from
+- Large SCADA event tables. Took a key Oracle query from
   16 s to 27 ms by keeping date math out of SQL so the index stays usable, and
   pushed deduplication, filtering and pagination into the database.
 - Chart downsampling that keeps the minimum and maximum of each time bucket
@@ -39,13 +40,13 @@ in real time.
   deterministic demo build with a frozen clock, and CI on GitHub Actions.
 - Security hardening: mandatory JWT secrets, role-based access, rate limiting,
   Content-Security-Policy and environment validation at startup.
-- Observability with Prometheus metrics and Grafana; Windows Server deploys
+- Prometheus metrics endpoint and structured logs; Windows Server deploys
   behind Caddy with automatic HTTPS.
 - A public demo that runs entirely in the browser, generating a coherent fake
   grid (weather, outages, events, load curves) so the product can be shown
   without exposing any customer data.
 
-<h2>💻 &nbsp;Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <div style="display: inline_block">
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -69,6 +70,25 @@ in real time.
     <img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 
-<h2>☕ &nbsp;Off the keyboard</h2>
+<h2>Public projects</h2>
+
+My work projects are private, so these are the public ones, mostly from
+university:
+
+| Project | What it is | Stack |
+|---|---|---|
+| [orbital-external-requests](https://github.com/raul4nt/orbital-external-requests) | API of my final project (TCC) "Orbital", normalizing space data from Launch Library 2 | TypeScript, Fastify, Zod, Vitest |
+| [rhmaster](https://github.com/raul4nt/rhmaster) | HR REST API (employees, positions, benefits), built in pair | TypeScript, Fastify, Prisma, PostgreSQL, Vitest |
+| [code-and-coffee](https://github.com/raul4nt/code-and-coffee) | Coffee shop web store with auth, orders and an Edge Function | Angular 19, Supabase |
+| [lvl-up-store](https://github.com/raul4nt/lvl-up-store) | Game store with cart and admin panel, built in pair | C#, ASP.NET Core MVC, Identity, EF Core |
+| [wc_pbn_pucrs](https://github.com/raul4nt/wc_pbn_pucrs) | Clone of the Unix `wc` utility | C |
+| [bov-classifier](https://github.com/raul4nt/bov-classifier) | CNN that tells bulls from buffaloes | Python, TensorFlow/Keras |
+
+<h2>Education</h2>
+
+- Systems Analysis and Development, Senac / Faculdade Senac Porto Alegre
+- PUCRS (in progress)
+
+<h2>Off the keyboard</h2>
 
 Coffee lover. Happiest when a slow query finally hits the index.
